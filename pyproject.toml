@@ -8,3 +8,6 @@ version = "0.1.0"
 description = "Automatically convert Python objects, sets, dates, and DataFrames to JSON."
 readme = "README.md"
 requires-python = ">=3.8"
+
+[project.urls]
+Homepage = "https://github.com/mehliciouson/japc_python_library"
