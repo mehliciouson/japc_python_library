@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/mehliciouson/japc_python_library/blob/main/JAPC%20logo.png" width="250">
+  <img src="https://github.com/mehliciouson/japc_python_library/blob/main/JAPC%20logo.png?raw=true" width="250">
 </p>
 
 
